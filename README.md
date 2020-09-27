@@ -5,7 +5,8 @@
 body {
     background-image: url("https://images.unsplash.com/photo-1501415753052-e620be3cb38a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80");
 }
-#myDIV {
+#myDIV 
+ {
   width: 1700px;
   height: 700px;
   border: 15px solid lightseagreen;
@@ -34,10 +35,6 @@ body {
     
     Finally, after an entire year, God invited Noah to come out of the ark. Immediately, Noah built an altar and offered burnt sacrifices with some of the clean animals to give thanks to God for deliverance. God was pleased with the offerings and promised never again to destroy all the living creatures as he had just done.
 <br></br>       
-            <span style='font-size:100px;'>&#9997;</span> Pragna chandanamudi</strong></p></p></div>
-
-
-
-
+            <span style='font-size:100px;'>&#9997;</span> Pragna chandanamudi</strong></p></div>
 </body>
 </html>
